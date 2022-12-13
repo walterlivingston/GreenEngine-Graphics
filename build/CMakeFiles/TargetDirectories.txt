@@ -1,0 +1,3 @@
+/Users/walterlivingston/Programming/C++/GreenEngine-Graphics/build/CMakeFiles/SDL2Test.dir
+/Users/walterlivingston/Programming/C++/GreenEngine-Graphics/build/CMakeFiles/edit_cache.dir
+/Users/walterlivingston/Programming/C++/GreenEngine-Graphics/build/CMakeFiles/rebuild_cache.dir
